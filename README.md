@@ -1,6 +1,9 @@
 ## App Name
 Vidly: Your Ultimate Movie Management App
 
+##
+<img src="./src/vidly.png" width="600">
+
 ## App Description
 Vidly is a modern, user-friendly full-stack web application designed to help you effortlessly manage your movie collection. Built using cutting-edge technologies such as React, JavaScript, and Node.js, Vidly offers a seamless experience for organizing, discovering, and personalizing your favorite films.
 
